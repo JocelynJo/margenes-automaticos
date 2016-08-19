@@ -1,0 +1,33 @@
+.caja1{
+	width: 200px;
+	/*height: 150px;*/
+	border: 20px solid #fcf660;
+	padding: 40px;
+}
+
+#tx1{
+	font-size: 13px;
+	text-align: center;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+#tx2{
+	font-size: 13px;
+	text-align: left;
+	margin-left: 15px;
+	margin-right: 15px;
+
+}
+.contenedor{
+	width: 1000px;
+	background-color: white;
+}
+
+.caja2{
+	width: 200px;
+	/*height: 150px;*/
+	border: 20px solid #fcf660;
+	padding: 40px;
+	margin:10px 400px 200px 400px;
+}
